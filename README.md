@@ -1,0 +1,1 @@
+flutter pub get\nflutter run
